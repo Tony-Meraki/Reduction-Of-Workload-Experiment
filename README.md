@@ -1,8 +1,6 @@
-# ControlHASS_Assistance
+# Reduction-Of-Workload-Experiment
 
-ControlHASS 2번째 실험
-
-대화 내용 파악 보조기법인(하이라이트, 요약)을 적용할 때 Work Load 변화를 측정하기 위한 실험 프로그램
+An experimental program to measure changes in workload when applying dialogue identification assistance techniques (highlights, summaries)
 
 ## Getting started
 
@@ -22,9 +20,6 @@ git branch -M main
 git push -uf origin main
 ```
 
-## Integrate with your tools
-
-- [ ] [Set up project integrations](http://xrlab-gitlab/controlhass/controlhass_assistance/-/settings/integrations)
 
 ## Collaborate with your team
 
