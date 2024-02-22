@@ -1,7 +1,7 @@
 # ControlHASS_Assistance
 
 ControlHASS 2번째 실험
-Assistance기법을 적용할 때 Work Load 변화를 측정하기 위한 실험 프로그램
+대화 내용 파악 보조기법인(하이라이트, 요약)을 적용할 때 Work Load 변화를 측정하기 위한 실험 프로그램
 
 ## Getting started
 
